@@ -2,7 +2,9 @@
 
 ## Description
 
-This methodological guide is a structured and logically coherent resource aimed at studying key aspects of the Russian language. It covers the main sections of the discipline and focuses on practical aspects encountered by students preparing for exams, as well as specialists in various fields, including the IT industry.
+This methodological guide is particularly valuable for IT specialists, as it provides a structured approach to understanding the linguistic foundations essential for text processing, natural language processing (NLP), and algorithmic analysis. 
+By studying key aspects of the Russian language, programmers and data analysts can enhance their ability to work with textual data, improve search algorithms, and refine machine translation models. 
+Additionally, this guide is beneficial for students preparing for exams and professionals in various fields who seek to deepen their knowledge of Russian linguistics.
 
 ## Sections of the Guide and Their Significance
 
